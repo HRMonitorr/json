@@ -1,0 +1,84 @@
+{
+  "status": 200,
+  "message": "data Commit berhasil diambil",
+  "data": [
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/1575900c140bc2289799caae328c2d915220beff",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "refactor insertuser",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/bc2f602db32431ef5b6dd52dd3512d041017fd96",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "Merge branch 'main' of github.com:HRMonitorr/PasetoprojectBackend",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/7339a7fc92b078afbdd9b4dc199bf088db20eb7d",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "tambah phonenum structure register",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "Rofi Nafiis Zain",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/c7be22f5f9627258f9b66a400121204eb03a17f5",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "update readme",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/3fe6ff76221cdde6e6ecd59af6e1d5c81e143840",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "tambaha argument untuk insert",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/e326b3b460d5446e962470cda0b5f69dbb71af13",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "perbaikan argument kurang",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/304677e1163b33c383e42456d85b0ef0a0d326dd",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "Membuat paseto encoder dan decode menyesuaikan role dan username",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/20230f1fe6b2f430a5bb3061a11f47fe1ea1c837",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "Membuat paseto encoder dan decode menyesuaikan role dan username",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/9e050a51065bb2bbb4e6f8f77c1d6509c79fd031",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "repair struct",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/09a49071886c1b60dee13d02f822846323eed998",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "repair getuser",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+      "repos": "https://api.github.com/repos/HRMonitorr/PasetoprojectBackend/git/commits/b4e9cead052cc919c5ed11c978fddcffc27af058",
+      "email": "rofinafiisr@gmail.com",
+      "comment": "memasukan paseto valid ke get user",
+      "date": "0001-01-01T00:00:00Z"
+    },
+    {
+      "author": "rofinafiin",
+   
