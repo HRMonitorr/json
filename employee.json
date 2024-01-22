@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "message": "data User berhasil diambil",
+  "data": [
+    {
+      "employeeid": "A11",
+      "name": "Rofi Nafiis Zain",
+      "username": "rofinafiin",
+      "email": "rofinafiisr@gmail.com",
+      "phone": "6285156007137",
+      "division": {
+        "divId": 0,
+        "divName": "Back-End Dev"
+      },
+      "salary": {
+        "basic-salary": 7000009,
+        "honor-division": 7000000
+      }
+    },
+    {
+      "employeeid": "A12",
+      "name": "haris",
+      "username": "Haris riyoni",
+      "email": "haris@gmail.com",
+      "phone": "6285860149271",
+      "division": {
+        "divId": 0,
+        "divName": "Front End"
+      },
+      "salary": {
+        "basic-salary": 10000,
+        "honor-division": 20000
+      }
+    },
+    {
+      "employeeid": "A13",
+      "name": "ridwan",
+      "username": "",
+      "email": "ridwan@gmail.com",
+      "phone": "6285860149271",
+      "division": {
+        "divId": 0,
+        "divName": "MK"
+      },
+      "salary": {
+        "basic-salary": 500000,
+        "honor-division": 20000
+      }
+    }
+  ]
+}
