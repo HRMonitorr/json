@@ -28,14 +28,14 @@
         "divName": "Front End"
       },
       "salary": {
-        "basic-salary": 10000,
-        "honor-division": 20000
+        "basic-salary": 500000,
+        "honor-division": 200000
       }
     },
     {
       "employeeid": "A13",
       "name": "ridwan",
-      "username": "",
+      "username": "ridwa",
       "email": "ridwan@gmail.com",
       "phone": "6285860149271",
       "division": {
@@ -43,8 +43,38 @@
         "divName": "MK"
       },
       "salary": {
-        "basic-salary": 500000,
-        "honor-division": 20000
+        "basic-salary": 3000000,
+        "honor-division": 600000
+      }
+    },
+    {
+      "employeeid": "A14",
+      "name": "bebas",
+      "username": "bebas",
+      "email": "bebas@gmail.com",
+      "phone": "6285860149271",
+      "division": {
+        "divId": 0,
+        "divName": "Marketing"
+      },
+      "salary": {
+        "basic-salary": 4636000,
+        "honor-division": 5777000
+      }
+    },
+    {
+      "employeeid": "A15",
+      "name": "gaga",
+      "username": "",
+      "email": "gaga@gmail.com",
+      "phone": "6285860149271",
+      "division": {
+        "divId": 0,
+        "divName": "Delivery"
+      },
+      "salary": {
+        "basic-salary": 4502000,
+        "honor-division": 7500980
       }
     }
   ]
